@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Simple Web Page</title>
+    <!-- You can link external CSS files here -->
+</head>
+<body>
+    <header>
+        <h1>Your Web Page Title</h1>
+    </header>
+    <main>
+        <p>Welcome to my simple web page!</p>
+    </main>
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+ <p>Check out this <a href="https://www.https://www.youtube.com/channel/UCtxsJtAOmIsPU8zmD-sqOpw">link to Example.com</a>.</p>
+    </footer>
+</body>
+</html>
